@@ -1,3 +1,5 @@
+Final_name=$1
+Final_status=$2
 echo $Final_name
 echo $Final_status
 getent passwd $Final_name
